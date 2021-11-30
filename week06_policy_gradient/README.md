@@ -6,4 +6,4 @@ Policy gradient for discounted rewards: [NeurIPS proceddings link](https://proce
 
 **Practice:**
 
-Seminar notebook: TBD
+Seminar notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/reinforcement-learning/blob/master/week06_policy_gradient/reinforce_pytorch.ipynb)
