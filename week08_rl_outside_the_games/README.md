@@ -1,4 +1,4 @@
-==== Week 8: RL outside games (self-critical sequence training) ====
+## Week 8: RL outside games (self-critical sequence training)
 
 [Lecture Slides](./MSAI_RL_lect08_rl_outside_the_games.pdf)
 
