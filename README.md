@@ -1,2 +1,2 @@
 # reinforcement-learning
-RL course for MSAI program
+RL course from girafe-ai
