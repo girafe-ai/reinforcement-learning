@@ -1,1 +1,1 @@
-* assignment01_sarsa: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/ml-course/blob/23f_basic/../23f_reinforcement-learning/homeworks/homework01_sarsa/assignment01_sarsa.ipynb)
+* assignment01_sarsa: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/reinforcement-learning/blob/23f_msai/homeworks/homework01_sarsa/assignment01_sarsa.ipynb)
