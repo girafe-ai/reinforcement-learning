@@ -1,7 +1,6 @@
 **Practice:**
 
-Previous seminar notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/
-reinforcement-learning/blob/23f_msai/week04_approx_qlearning/seminar_pytorch.ipynb)
+Previous seminar notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/girafe-ai/reinforcement-learning/blob/23f_msai/week04_approx_qlearning/seminar_pytorch.ipynb)
 
 [Stable baselines 3](https://stable-baselines3.readthedocs.io/en/master/index.html) solution:
 
