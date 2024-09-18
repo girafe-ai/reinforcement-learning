@@ -4,10 +4,13 @@ This course accompanies the ml-course and provides an overview of both classical
 
 ### Approximate schedule for 2024:
 
-| Date | Class num | Lecture topic | Lecture to be provided                    | This year webinar | Prev Year Webinar                         |
-|------|-----------|---------------|-------------------------------------------|-------------------|-------------------------------------------|
-|      | 0         | DL recap      | -                                         | -                 | -                                         |
-| 18/9 | 1         | Intro to RL   | [Lecture 1](https://youtu.be/Y75G7PSQMNw) | -                 | [Webinar 1](https://youtu.be/ToOGWpD7S38) |
+| Date | Class num | Lecture topic     | Lecture to be provided                    | This year webinar | Prev Year Webinar                         |
+|------|-----------|-------------------|-------------------------------------------|-------------------|-------------------------------------------|
+|      | 0         | DL recap          | -                                         | -                 | -                                         |
+| 18/9 | 1         | Intro to RL       | [Lecture 1](https://youtu.be/Y75G7PSQMNw) | -                 | [Webinar 1](https://youtu.be/ToOGWpD7S38) |
+| 18/9 | 1         | Intro to RL       | [Lecture 1](https://youtu.be/Y75G7PSQMNw) | -                 | [Webinar 1](https://youtu.be/ToOGWpD7S38) |
+| 25/9 | 2         | Bellman equations | [Lecture 2](https://youtu.be/NF_9ZFE89rQ) | -                 | [Webinar 2](https://youtu.be/55BK7VTx4Fs) |
+
 
 #### Acknowledgements:
 This course is inspired and heavily affected by the following brilliant courses, blogs and materials.
