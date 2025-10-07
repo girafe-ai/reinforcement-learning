@@ -1,0 +1,1 @@
+To solve the assignment, follow the [link](https://github.com/girafe-ai/ml-course/tree/homeworks/contest/cross_entropy), solve all the tasks and submit your solution to the Yandex.Contest competition: https://contest.yandex.ru/contest/82718/enter
